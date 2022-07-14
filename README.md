@@ -1,4 +1,4 @@
-# cursoGo
+# Curso Golang
 
 ### Aprendizado da linguagem Go
 
