@@ -1,5 +1,6 @@
 # cursoGo
-Aprendizado do linguagem Go
+
+### Aprendizado da linguagem Go
 
 ---
 
