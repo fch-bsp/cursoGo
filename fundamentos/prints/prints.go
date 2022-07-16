@@ -1,4 +1,4 @@
-package main //tetse 
+package main
 
 import "fmt"
 
