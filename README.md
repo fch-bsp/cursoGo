@@ -2,7 +2,7 @@
 
 ### Aprendizado da linguagem Go
 
-### Tópicos: teste 
+### Tópicos:
 
 ---
 
