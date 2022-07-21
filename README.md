@@ -1,6 +1,6 @@
 # Curso Golang
 
-### Aprendizado da linguagem Go
+### Aprendizado da linguagem Golang do zero ao intermediário
 
 ### Tópicos:
 
