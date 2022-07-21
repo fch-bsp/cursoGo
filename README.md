@@ -2,10 +2,10 @@
 
 ### Aprendizado da linguagem Golang do zero ao intermediário
 
-### Tópicos:
+
 
 ---
-
+### Tópicos:
 #### - Fundamentos
 #### - Estrutura de Controle
 #### - Arrray/Slices/Map
