@@ -13,7 +13,7 @@ type pessoa struct {
 
 type produto struct {
 	nome  string
-	preco string
+	preco float64
 }
 
 //interfaces são implementadas implicitamente
@@ -39,5 +39,8 @@ func main() { //crianod função main para executar o programa
 	coisa = produto{"Calça Jeans", 79.90}
 	fmt.Println(coisa.toString())
 	imprimir(coisa)
-	imprimir(produto{"Calça Jeans", 79.90})
+
+
+	p2 := (produto{"Calça Jeans", 79.90})
+	imprimir(p2)
 }
